@@ -143,54 +143,35 @@ body {
   border-radius: 10px;
   margin: 20px;
 }
+.bar-comum {
+  background-color: #293651;
+  height: 7px;
+  border-radius: 10px;
+}
 
-.bar1 {
-  background-color: #293651;
+.bar-ux {
   width: 220px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar2 {
-  background-color: #293651;
+.bar-web {
   width: 180px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar3 {
-  background-color: #293651;
+.bar-html {
   width: 240px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar4 {
-  background-color: #293651;
+.bar-sketch {
   width: 140px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar5 {
-  background-color: #293651;
+.bar-interec {
   width: 100px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar6 {
-  background-color: #293651;
+.bar-product {
   width: 240px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar7 {
-  background-color: #293651;
+.bar-figma {
   width: 260px;
-  height: 7px;
-  border-radius: 10px;
 }
-.bar8 {
-  background-color: #293651;
+.bar-uxs {
   width: 200px;
-  height: 7px;
-  border-radius: 10px;
 }
 
 .porcen {
