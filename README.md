@@ -5,6 +5,6 @@ Projeto desenvolvido com o objetivo de colocar em prática os conceitos básicos
 
 <h3>Visualização</h3>
 <img src="imagens/frame.png"/>
-<a href="https://larissaagabrielle.github.io/enzo-pascal-responsivo/">
+<a href="https://larissaagabrielle.github.io/enzo-pascal-responsivo/" target="_blank">
     <p>Link</p>
 </a>
