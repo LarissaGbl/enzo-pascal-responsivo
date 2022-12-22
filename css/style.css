@@ -42,7 +42,7 @@ body {
 }
 
 .container1 {
-  background: center/ cover no-repeat url(../images/back.png);
+  background: center/ cover no-repeat url(../imagens/back.png);
 }
 
 .conteudo1 {
@@ -219,11 +219,11 @@ body {
 }
 
 .container5 {
-  background: center / cover no-repeat url(../images/abstrato-branco.png);
+  background: center / cover no-repeat url(../imagens/abstrato-branco.png);
 }
 
 .caixaCont {
-  background: center / cover no-repeat url(../images/backgroud2\(1\).png);
+  background: center / cover no-repeat url(../imagens/backgroud2\(1\).png);
   margin-top: 135px;
   padding: 22px;
   border-radius: 10px;
